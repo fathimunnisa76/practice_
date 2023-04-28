@@ -1,0 +1,21 @@
+1.Data science is a rapid tool which is used in now-a-days job requirement and it is combination of statistics,mathematics,domain expertise,data processing,computer science, and machine learning.
+
+2.The importance of statistics is used to analyze the data, to collect the data and represent the data in the form of graphs.
+
+3.Data engeneering is a part of data science and is defined as collection of data and representing the collected in a specific manner and it involves machine learning
+
+4.Visualization is representing the data in the form of graphs,pie chart and diagramatically.
+
+5.Data cleaning is removal and managing of unwanted data and handling the missing data.
+
+6.Python is a programming language and it is used to write the codes such as defining user define functions and using the predefined functions.
+
+7.The role of data in statistics is visualization , collection , analysis of large amount of data.
+
+8.Statistics is a part of data science and is represent the data in the form of graphs and pie chart.
+
+9.Mathematics is a part of data science and is used to solve the simple as well as complex problems.
+
+10.Computer science is also a part of data science and is the study of computation, automation and information.
+
+11.Programming language is a set of code that has an input from the keyboard then it executes and generates an required output.
